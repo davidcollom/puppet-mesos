@@ -29,7 +29,7 @@ GEM
       json_pure
     hiera-puppet-helper (1.0.1)
     highline (1.6.20)
-    json (1.8.1)
+    json (2.3.1)
     json_pure (1.8.1)
     kwalify (0.7.2)
     librarian-puppet (0.9.10)
